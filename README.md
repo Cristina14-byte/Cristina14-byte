@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello there, I am Cristina Ciors 👋
 
-<!--
-**Cristina14-byte/Cristina14-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science student** at the **Technical University of Cluj Napoca**, currently working as a **teacher** at **Academia Micilor Developeri**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects  
+I am currently working on **school** projects and also on a project for generating DOCX documents.  
+You can view my main projects on my profile.
+
+---
+
+## 🌱 Skills & Interests  
+- **Java programming**  
+- **Music**  
+- **Sports**, such as: tennis, weight lifting  
+- **Videogames**.
+
+---
+
+## 👨‍💻 Collaboration  
+I am always looking forward to collaborating on exciting projects and working together with others.  
+If you would like to discuss any possible projects or ideas, feel free to reach out to me.  
+My contact information is available on my profile.

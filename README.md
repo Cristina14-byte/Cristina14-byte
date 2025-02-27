@@ -1,6 +1,6 @@
 ## Hello there, I am Cristina Ciors 👋
 
-I am a **Computer Science student** at the **Technical University of Cluj Napoca**, currently working as a **teacher** at **Academia Micilor Developeri**. 
+I am a **second year Computer Science student** at the **Technical University of Cluj Napoca**, currently working as a **teacher** at **Academia Micilor Developeri**. 
 
 ---
 
